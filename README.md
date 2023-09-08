@@ -1,7 +1,7 @@
-#### Olá! Meu nome é Marina Queiroz✨
+#### Olá! me chamo Marina.🐞
 
 
-- 🌱  Estudando CSS e Flutter 
+-  QA Jr
 
 <div> 
   <a href="https://github.com/marinaqamorim"> 
