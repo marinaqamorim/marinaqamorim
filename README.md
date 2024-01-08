@@ -1,7 +1,8 @@
 #### Olá! me chamo Marina.🐞
 
 
--  QA Jr
+-  Tester
+
 
 <div> 
   <a href="https://github.com/marinaqamorim"> 
